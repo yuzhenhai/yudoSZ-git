@@ -1,0 +1,8 @@
+# Project-level settings
+/.tgitconfig
+/config/database.php
+/config/web.php
+/config/ftp.php
+sftp-config.json
+/sftp-config.jsongit
+/.idea
